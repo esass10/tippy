@@ -4,7 +4,7 @@
 
 Submitted by: **Elliot Sasson**
 
-Time spent: **1.5** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -18,6 +18,12 @@ The following **optional** features are implemented:
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+
+The following **additional** features are implemented:
+
+- [x] Added a blue color scheme to make the app look better.
+- [x] Tip Calculator also calculates how much is owed per person depending on the size of the party.
+- [x] Uses a slider instead of a segmented control to change the tip percentage.
 
 ## Video Walkthrough 
 
