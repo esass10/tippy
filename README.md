@@ -22,8 +22,9 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] Added a blue color scheme to make the app look better.
-- [x] Tip Calculator also calculates how much is owed per person depending on the size of the party.
+- [x] Tippy also calculates how much is owed per person depending on the size of the party.
 - [x] Uses a slider instead of a segmented control to change the tip percentage.
+- [x] Also shows the tip percentage next to the slider
 
 ## Video Walkthrough 
 
